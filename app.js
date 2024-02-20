@@ -14,6 +14,8 @@ function exibirMensagemInicial() {
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
 }
 
+//adicionando um comentário teste para o curso de Github
+
 exibirMensagemInicial();
 
 function verificarChute() {
